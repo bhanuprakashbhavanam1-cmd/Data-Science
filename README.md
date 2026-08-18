@@ -1,6 +1,6 @@
-# 📚 Python & Data Science Assignments Directory
+# Python & Data Science Assignments Directory
 
-## 📋 Overview Table
+## Overview Table
 
 | File Name | Topic / Focus | Questions / Tasks | Core Libraries & Concepts |
 | :--- | :--- | :--- | :--- |
