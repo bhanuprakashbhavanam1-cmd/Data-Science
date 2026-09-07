@@ -11,4 +11,7 @@
 | [**`Assignment_6.ipynb`**](./Assignment_6.ipynb) | Functional Programming Mastery | 100 Practice Questions | `lambda`, `map()`, `filter()`, `reduce()`, Functional Pipelines |
 | [**`Assignment_7.ipynb`**](./Assignment_7.ipynb) | Masterclass on Functions & Scope | 100 Structured Assignments | Function Definitions, Parameters, Closures, LEGB Scope (`global`/`nonlocal`) |
 | [**`Assignment_8.ipynb`**](./Assignment_8.ipynb) | NumPy Retail Analytics Case Study | 80+ Analytical Questions | NumPy Arrays, Matrix Aggregations, Boolean Masking, Business Analytics |
-| [**`python-control-flow-100.ipynb`**](./python-control-flow-100.ipynb) | Python Control Flow (Edukron) | 100 Examples + 100 Assignments | `if/elif/else`, `for` loops, `while` loops, Nested Logic, Capstone Validation |
+| [**`python-control-flow-100.ipynb`**](./python-control-flow-100.ipynb) | Python Control Flow | 100 Examples + 100 Assignments | `if/elif/else`, `for` loops, `while` loops, Nested Logic, Capstone Validation |
+
+| :--- | :--- | :--- | :--- |
+| [**`Sql_Functions.sql`**](./Sql_Functions.sql) | SQL Functions | 20 Assignment Questions | `Character Functions`, `NUMERICAL FUNCTIONS`|
